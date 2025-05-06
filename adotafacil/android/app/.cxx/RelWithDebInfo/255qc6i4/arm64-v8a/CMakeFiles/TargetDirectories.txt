@@ -1,0 +1,2 @@
+D:/Documentos/AdotaFacil/tccadotafacil/adotafacil/android/app/.cxx/RelWithDebInfo/255qc6i4/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/Documentos/AdotaFacil/tccadotafacil/adotafacil/android/app/.cxx/RelWithDebInfo/255qc6i4/arm64-v8a/CMakeFiles/rebuild_cache.dir

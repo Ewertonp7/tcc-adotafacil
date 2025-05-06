@@ -1,0 +1,16 @@
+# BACKEND
+/backend/node_modules/
+/backend/.env
+
+# FLUTTER (FRONTEND)
+**/build/
+**/.dart_tool/
+**/.packages
+**/.flutter-plugins*
+**/.idea/
+**/.vscode/
+
+# SISTEMAS
+.DS_Store
+Thumbs.db
+*.log
